@@ -1,5 +1,6 @@
-# NanelOps x PepperOps x PepperInc
+![Pepper inc-03](https://github.com/user-attachments/assets/4dca71aa-6a82-4d53-80b4-c18d38e8a6f4)
 
+# NanelOps x PepperOps x PepperInc
 
 - 👋 Hi, I’m @angelrmh or NanelOps
 - 👀 I’m interested in Music, Sports, Gaming, and obviously Tech

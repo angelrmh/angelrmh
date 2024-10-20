@@ -9,6 +9,8 @@
 - 📫 How to reach me angelrmh10@gmail.com
 - 😄 Pronouns: he/him
 - ⚡ Fun fact: ...
+- 
+![Wallpepper Linkedin-01](https://github.com/user-attachments/assets/6c93fba5-99b0-4b36-924a-5629399cfd34)
 
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=angelrmh&show_icons=true&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
 

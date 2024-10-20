@@ -3,7 +3,7 @@
 
 ![Wallpepper Linkedin-01](https://github.com/user-attachments/assets/6c93fba5-99b0-4b36-924a-5629399cfd34)
 
-## Who i am?
+## Who am I?
 
 - 👋 Hi, I’m @angelrmh or NanelOps
 - 👀 I’m interested in music, sports, sneakers, gaming and obviously Tech

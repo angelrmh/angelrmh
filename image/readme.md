@@ -1,1 +1,1 @@
-** Folder for images 
+### Folder for images 

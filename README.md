@@ -4,7 +4,7 @@
 
 ![Wallpepper Linkedin-01](https://github.com/user-attachments/assets/6c93fba5-99b0-4b36-924a-5629399cfd34)
 
-![Wallpepper-Linkedin-01](https://github.com/angelrmh/image/Wallpepper-Linkedin-02.png)
+![Wallpepper-Linkedin-01](https://github.com/angelrmh/image/Wallpepper-Linkedin-01.png)
 
 ## Who am I?
 

@@ -1,8 +1,8 @@
 # [Hi! everybody, I´m Ángel Millán or NanelOps]
 
-# [I´m SysAdmin, SysOps and DevOps for PepperOps x PepperInc]
+# [I´m SysAdmin, SysOps and DevOps for PepperInc]
 
-![Wallpepper Linkedin-01](https://github.com/user-attachments/assets/6c93fba5-99b0-4b36-924a-5629399cfd34)
+![Pepperinc-wallpapper-04](https://github.com/user-attachments/assets/29a5b139-c7d2-45f8-ab66-79ce2359c579)
 
 ## Who am I?
 
@@ -17,10 +17,10 @@
 ## NanelOps GitHup Stats
   
 <a href="https://github.com/anuraghazra/github-readme-stats">
-  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api?username=angelrmh&show_icons=true&theme=onedark" />
+  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api?username=angelrmh&show_icons=true&theme=vue" />
 </a>
 <a href="https://github.com/anuraghazra/convoychat">
-  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=angelrmh&layout=compact&langs_count=8&card_width=100&theme=onedark" />
+  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=angelrmh&layout=compact&langs_count=8&card_width=100&theme=vue" />
 </a>
 
 

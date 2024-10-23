@@ -1,8 +1,7 @@
 # [Hi! everybody, I´m Ángel Millán or NanelOps]
 
-# [I´m SysAdmin, SysOps and DevOps for PepperOps x PepperInc]
+# [I´m SysAdmin, SysOps and DevOps for Pep
 
-![Wallpepper Linkedin-01](https://github.com/user-attachments/assets/6c93fba5-99b0-4b36-924a-5629399cfd34)
 ![Pepperinc-wallpapper-04](https://github.com/user-attachments/assets/29a5b139-c7d2-45f8-ab66-79ce2359c579)
 
 ## Who am I?

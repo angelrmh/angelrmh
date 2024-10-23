@@ -1,6 +1,6 @@
 # [Hi! everybody, I´m Ángel Millán or NanelOps]
 
-# [I´m SysAdmin, SysOps and DevOps for Pep
+# [I´m SysAdmin, SysOps and DevOps for PepperInc]
 
 ![Pepperinc-wallpapper-04](https://github.com/user-attachments/assets/29a5b139-c7d2-45f8-ab66-79ce2359c579)
 

@@ -17,11 +17,9 @@
 <!--- ![Jenkins](	https://img.shields.io/badge/Jenkins-D24939?style=for-the-badge&logo=Jenkins&logoColor=white) --->
 <!--- ![city](https://img.shields.io/badge/TeamCity-000000?style=for-the-badge&logo=TeamCity&logoColor=white) --->
 
-<font color="green">  
 # [I´m SysAdmin, SysOps and DevOps for PepperInc](https://www.pepperinc.net)
-</font>
 
-![Pepperinc-03](https://github.com/user-attachments/assets/77889f3f-18e6-47f4-8b25-e438c5f2cfcc)
+![Pepperinc-03](https://github.com/user-attachments/assets/77889f3f-18e6-47f4-8b25-e438c5f2cfcc)(http://www.pepperinc.net)
 
 ## Who am I?
 

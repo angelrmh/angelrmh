@@ -2,7 +2,7 @@
 
 # [I´m SysAdmin, SysOps and DevOps for PepperInc]
 
-![Pepperinc-wallpapper-04](https://github.com/user-attachments/assets/29a5b139-c7d2-45f8-ab66-79ce2359c579)
+![Pepperinc-03](https://github.com/user-attachments/assets/77889f3f-18e6-47f4-8b25-e438c5f2cfcc)
 
 ## Who am I?
 

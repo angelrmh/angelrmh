@@ -27,7 +27,7 @@
 - 👀 I’m interested in music, sports, sneakers, gaming and obviously Tech
 - 🌱 I´m SysAdmin and SysOps, currently focused on Cloud Computing through the application of DevOps philosophy and tools
 - 💞️ I’m looking to collaborate on startups
-- 📫 How to reach me angelrmh10@gmail.com
+- 📫 How to reach me angelrmh10@gmail.com or angel.millan@pepperinc.net
 - 😄 Pronouns: he/him
 - ⚡ Fun fact: ...
 

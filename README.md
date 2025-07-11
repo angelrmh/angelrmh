@@ -5,6 +5,7 @@
 <!--- ![HTML5](https://img.shields.io/badge/-HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white) --->
 ![Linux](https://img.shields.io/badge/linux-000000?logo=linux&logoColor=white&style=for-the-badge)
 ![Bash](https://img.shields.io/badge/bash-4EAA25?logo=gnu-bash&logoColor=white&style=for-the-badge)
+![Script](https://img.shields.io/badge/script-0052CC?logo=script&logoColor=white&style=for-the-badge)
 ![Windows](https://img.shields.io/badge/windows-0078D6?logo=windows&logoColor=white&style=for-the-badge)
 ![macOS](https://img.shields.io/badge/macOS-000000?logo=apple&logoColor=white&style=for-the-badge)
 ![Cisco](https://img.shields.io/badge/cisco-1BA0D7?logo=cisco&logoColor=white&style=for-the-badge)

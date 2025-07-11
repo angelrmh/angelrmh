@@ -20,6 +20,7 @@
 ![Docker](https://img.shields.io/badge/docker-2496ED?logo=docker&logoColor=white&style=for-the-badge)
 ![kubernetes](https://img.shields.io/badge/kubernetes-326CE5?logo=kubernetes&logoColor=white&style=for-the-badge)
 ![python](https://img.shields.io/badge/python-3776AB?logo=python&logoColor=white&style=for-the-badge)
+![AI](https://img.shields.io/badge/AI-FF6F61?logo=brain&logoColor=white&style=for-the-badge)
 <!--- ![golang](https://img.shields.io/badge/Go-00ADD8?style=for-the-badge&logo=go&logoColor=white) --->
 <!--- ![Gitlab](https://img.shields.io/badge/GitLab-330F63?style=for-the-badge&logo=gitlab&logoColor=white) --->
 <!--- ![Jenkins](	https://img.shields.io/badge/Jenkins-D24939?style=for-the-badge&logo=Jenkins&logoColor=white) --->

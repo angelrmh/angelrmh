@@ -1,7 +1,7 @@
-# [Hi! everybody, I´m Ángel Millán or NanelOps]
-
 <div align="center">
   
+# [Hi! everybody, I´m Ángel Millán or NanelOps]
+
 <!--- ![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=for-the-badge&logo=JavaScript&logoColor=black) --->
 <!--- ![Node.js](https://img.shields.io/badge/-Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white) --->
 <!--- ![HTML5](https://img.shields.io/badge/-HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white) --->
@@ -28,9 +28,9 @@
 <!--- ![Jenkins](	https://img.shields.io/badge/Jenkins-D24939?style=for-the-badge&logo=Jenkins&logoColor=white) --->
 <!--- ![city](https://img.shields.io/badge/TeamCity-000000?style=for-the-badge&logo=TeamCity&logoColor=white) --->
 
-</div>
-
 # [I´m SysAdmin, Platform Engineer and DevOps for PepperInc]
+
+</div>
 
 [![Pepperinc-03](https://github.com/user-attachments/assets/77889f3f-18e6-47f4-8b25-e438c5f2cfcc)](http://www.pepperinc.net)
 

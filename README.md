@@ -57,6 +57,20 @@
   
 </div>
 
+## NanelOps GitHub Stats
+
+<p align="center">
+  <!-- Claro -->
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api?username=angelrmh&show_icons=true&theme=vue-dark" />
+    <img height="150" src="https://github-readme-stats.vercel.app/api?username=angelrmh&show_icons=true&theme=vue" />
+  </picture>
+
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api/top-langs?username=angelrmh&layout=compact&langs_count=8&card_width=150&theme=vue-dark" />
+    <img height="150" src="https://github-readme-stats.vercel.app/api/top-langs?username=angelrmh&layout=compact&langs_count=8&card_width=150&theme=vue" />
+  </picture>
+</p>
 
 <!---
 angelrmh/angelrmh is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.

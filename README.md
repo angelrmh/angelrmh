@@ -9,7 +9,7 @@
 
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=00C9A7&center=true&vCenter=true&random=false&width=600&lines=Cloud+Computing+%7C+DevOps+Philosophy;Infrastructure+as+Code+%7C+IaC;Multi-Cloud%3A+AWS+%7C+Azure+%7C+GCP;Automation+%7C+CI%2FCD+%7C+Zero+Downtime)](https://git.io/typing-svg)
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-NanelOps-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/angelrmh)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-NanelOps-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/angelrmh10)
 [![Website](https://img.shields.io/badge/PepperInc-pepperinc.net-00C9A7?style=for-the-badge&logo=google-chrome&logoColor=white)](http://www.pepperinc.net)
 [![Portfolio](https://img.shields.io/badge/Portfolio-NanelOps-00C9A7?style=for-the-badge&logo=About.me&logoColor=white)](https://www.pepperinc.net/portfolio/nanelops)
 [![Email](https://img.shields.io/badge/Email-angel.millan%40pepperinc.net-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:angel.millan@pepperinc.net)
